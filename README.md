@@ -8,6 +8,7 @@ example in its docstring.
 
 | # | Snippet | What it does | Stack |
 |---|---------|--------------|-------|
+| 001 | [3dep_dem_download](snippets/001_3dep_dem_download.py) | Tiled download of a USGS 3DEP DEM for any bbox, auto UTM, one GeoTIFF | rasterio, requests |
 
 ## Setup
 
