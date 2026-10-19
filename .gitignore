@@ -1,0 +1,13 @@
+# outputs
+*.tif
+*.tif.aux.xml
+*.gpkg
+*.zip
+out/
+data/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
